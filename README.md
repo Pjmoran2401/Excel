@@ -4,4 +4,5 @@
 
 ## Project 1: First use of aggregate values
 
-For this project we used the retail_sales dataset:
+For this project we used the
+<a href="https://github.com/Pjmoran2401/Excel/blob/main/retail_sales_dataset_finished.xlsx" target="_blank">retail_sales_dataset</a>
