@@ -16,6 +16,11 @@ In This Project i was set the tasks to
 
 ![image](https://github.com/user-attachments/assets/7e710803-b11d-40e8-be6a-51e4cfed52d3)
 
+3. Use SUM function to show commission total
+
 ![image](https://github.com/user-attachments/assets/29446783-729a-439d-8636-d032658676bb)
 
+4. use AVERAGE function to show average commission
+
+   
 ![image](https://github.com/user-attachments/assets/0d2049f9-ec36-4b51-aad5-33b950ccc1cd)
